@@ -1,0 +1,7 @@
+Finacial Analysis
+-------------------
+Total Months: 86
+Tota: $38382578
+Average Change: $446309.0465116279
+Greatest Increase in Profits: Feb-2012 ($1170593)
+Greatest Decrease in Profits: Sep-2013 ($-1196225)
